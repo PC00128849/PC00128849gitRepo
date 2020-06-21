@@ -1,2 +1,4 @@
 Hello Praveen
 Happy married life
+This is a master file in Git
+it doesnt look like master though
